@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Car Keys",
+            "img_url": "/lost/car_keys.jpg",
+            "description": "Lost car keys with a Toyota keychain",
+            "owner": "John Doe",
+            "date_posted": "2022-10-20"
+        },
+        {
+            "id": 2,
+            "name": "Green Tumbler",
+            "img_url": "/lost/green_tumbler.jpg",
+            "description": "Lost green tumbler with a 'Coffee is life' inscription",
+            "owner": "Jane Smith",
+            "date_posted": "2022-12-15"
+        },
+        {
+            "id": 3,
+            "name": "Blue Umbrella",
+            "img_url": "/lost/umbrella_blue.jpg",
+            "description": "Lost blue umbrella with a broken spoke",
+            "owner": "Michael Johnson",
+            "date_posted": "2022-11-25"
+        },
+        {
+            "id": 4,
+            "name": "Wallet and Key",
+            "img_url": "/lost/wallet_key.jpg",
+            "description": "Lost wallet and key with a brown leather strap",
+            "owner": "Sarah Brown",
+            "date_posted": "2022-09-01"
+        }
+    ]
+}

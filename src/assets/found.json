@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Car Key",
+            "img_url": "/found/car-key.jpg",
+            "description": "Lost car key with a Ford keychain",
+            "finder": "James Rodriguez",
+            "date_found": "2023-01-10"
+        },
+        {
+            "id": 2,
+            "name": "ID",
+            "img_url": "/found/id.jpg",
+            "description": "Lost ID with a picture of a cat",
+            "finder": "Emily Davis",
+            "date_found": "2022-12-25"
+        },
+        {
+            "id": 3,
+            "name": "iPhone 13 (Blue)",
+            "img_url": "/found/iphone13-blue.jpg",
+            "description": "Lost blue iPhone 13 with a black case",
+            "finder": "William Johnson",
+            "date_found": "2023-01-20"
+        },
+        {
+            "id": 4,
+            "name": "Motor Key",
+            "img_url": "/found/motor-key.jpg",
+            "description": "Lost motor key with a Yamaha keychain",
+            "finder": "Olivia Smith",
+            "date_found": "2022-12-30"
+        },
+        {
+            "id": 5,
+            "name": "Wallet (Black)",
+            "img_url": "/found/wallet-black.jpg",
+            "description": "Lost black wallet with a gold buckle",
+            "finder": "Jacob Brown",
+            "date_found": "2022-11-15"
+        }
+    ]
+}
